@@ -1,0 +1,36 @@
+{
+  "name": "cordova-plugin-audiofruency",
+  "version": "0.0.2",
+  "description": "Audio Frequency",
+  "cordova": {
+    "id": "cordova-plugin-audiofruency",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rivas97/cordova-plugin-audiofrequency.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "play frequency",
+    "cordova play tone",
+    "cordova play frequency",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Fernando Rivas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/an-rahulpandey/cordova-plugin-playfrequency/issues"
+  },
+  "homepage": "https://github.com/Rivas97/cordova-plugin-audiofrequency#readme"
+}
